@@ -24,6 +24,7 @@ ArrayAdapter的应用
 在使用了ArrayAdapter适配器后，还要调用ListView的setAdapter方法。
 
                                                 2017/12/7       RecyclerView
+
 RecyclerView与百分布局相似
 在使用控件RecyclerView时，需要在project/app/build.gradle中添加相应的依赖库，在dependencies闭包中添加
                            compile'com.android.support:recyclerview-v7:24.21'
